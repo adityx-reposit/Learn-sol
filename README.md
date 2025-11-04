@@ -1,5 +1,2 @@
-added the learn sol library with support for further instance
-
-
-
-now game is added to the system
+completed the action need to refresh the thing again 
+will be starting from tomm
